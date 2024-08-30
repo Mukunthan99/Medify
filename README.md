@@ -1,4 +1,5 @@
 **Important features of Medify:**
+
   Landing Page:
     A top navigation bar with access to platform sections such as Find Doctors, Hospitals, Medicines, and more.
     A search section for users to select a state and city, leading to a list of available medical centers in the chosen area.
